@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.skyscreamer:jsonassert:1.2.3" type="repository">
+    <properties maven-id="org.skyscreamer:jsonassert:1.2.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jsonassert-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20090211.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
